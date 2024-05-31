@@ -61,8 +61,26 @@ For the most part, this data did not need much cleaning. Microsoft Excel  was us
 
 ## Exploratory Data Analysis
 Explored the sales data to answer key questions, such as:
-1) Who is our best customer?
-2) 
+
+1) What are the top-selling products overall?
+2) What are the top-selling products by Category and subcategory?
+3) Profitability Analysis - Which products generate the highest profit?
+4) Customer Segmentation - What are the main customer segments?
+5) Regional Performance - What are the total sales and profit by Region?
+6) Shipping Analysis- What are the most commonly used shipping models?
+7) Discount Impact - What effect do discounts have on profit?
+8) Time Trends - Are there any seasonal trends in sales or profit?
+9) Customer Loyalty - List the loyal customers.
+10) Product Portfolio Optimization - What are the underperforming products?
+
+ In-depth analysis
+ a) Let's start by grouping sales by category
+ b) Let's group sales across the years
+ c) Let's group sales across the years for each category 2015 has the least revenue, let's see in which month they operated in 2015
+ d) Let's see with which discount they generate the more revenue
+ e) What was the best month for sales in a specific year, and how much was earned in that month?
+ f) What type of products do they sell the most (classic) from 2014 to 2017?
+ g) Who are our best customers?
 
 
 
