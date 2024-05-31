@@ -288,24 +288,34 @@ The analysis results are summarized as follows:
 #### Product Analysis
 - What type of products do they sell the most (classic) from 2014 to 2017?
   The most sold products are Phones, Storage, Chairs, bookcases, Binders, Machines and Tables.
+
+- Profitability Analysis - Which products generate the highest profit?
+  The product generating the most profit is: "Canon imageCLASS 2200 Advanced Copier"
   
-9) What are the top-selling products overall?
-10) What are the top-selling products by Category and subcategory?
-11) Profitability Analysis - Which products generate the highest profit?
-18) Product Portfolio Optimization - What are the underperforming products?
+- Product Portfolio Optimization - What are the underperforming products?
+
+ The product generating the least revenue is: "Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac"
 
 #### Customer Analysis:
-8) Who are our best customers?
-12) Customer Segmentation - What are the main customer segments?
-17) Customer Loyalty - List the loyal customers.
+- Who are our loyal customers?
+   Top 8: William Brown, Paul Prost, John Lee, Matt Abelman, Jonathan Doherty, Chloris Kastensmidt, Edward Hooks, Seth Vernon
+
 
 #### Regional Analysis:
-13) Regional Performance - What are the total sales and profit by Region?
+- Regional Performance - What are the total sales and profit by Region?
+  ##### Region------ Total_Sales----Total_Profit
+  - East-----678781.24-------91522.78
+  - South----391721.905------46749.4303
+  - West-----725457.8245-----108418.4489
+  - Central---501239.8908-----39706.3625
+    
 
 #### Operational Analysis:
-14) Shipping Analysis- What are the most commonly used shipping models?
-15) Discount Impact - What effect do discounts have on profit?
-16) Time Trends - Are there any seasonal trends in sales or profit?
+- Shipping Analysis- What are the most commonly used shipping models?
+  
+    
+16) Discount Impact - What effect do discounts have on profit?
+17) Time Trends - Are there any seasonal trends in sales or profit?
 
 
 
