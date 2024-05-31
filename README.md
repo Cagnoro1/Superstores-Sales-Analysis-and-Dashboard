@@ -249,8 +249,19 @@ ORDER BY Total_Sales ASC ;
 ### Results and Finding
 
 The analysis results are summarized as follows:
-a. Sales Performance Analysis: Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
-b. 
+#### Sales Performance Analysis: 
+- Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
+- The Top 3 selling products:
+    - Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish (Total Sales: 15610.9656)
+    - DMI Eclipse Executive Suite Bookcases (Total Sales: 11046.609)
+    - Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors (Total Sales: 7539.7122)
+- Regional Performance
+          - Region	 Total_Sales	   Total_Profit
+          - East   	  678781.24	      91522.78
+          - South	    391721.905	    46749.4303
+          - West	    725457.8245	    108418.4489
+          - Central	  501239.8908	    39706.3625
+
 
 
 
