@@ -12,6 +12,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Finding](#results-and-finding)
+  - [Sales Performance Analysis](#sales-performance_analysis)
 - [Limitation](#limitation)
 - [References](#references)
 
