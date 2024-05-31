@@ -12,14 +12,17 @@
 - [References](#references)
 
 
+
 ## Project Overview
 The project involves the analysis of sales data from the Superstore database. The data ranged from 2014 to 2017. This project aims to analyze the Superstore sales database in depth. This project is divided into two parts: 
 1) The customer segmentation Analysis  using SQL.
 2) The visualization Dashboard on Tableau.
 
+
 ## Data Source
 This data came from Kaggle:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 
 ### Metadata
 Row ID => Unique ID for each row.
@@ -46,16 +49,20 @@ Profit => Profit/Loss incurred.
 
 
 ## Tools
-Microsoft SQL Server (SQL) - Data cleaning
+Microsoft SQL Server (SQL) -  used as the primary tool for data analysis. SQL queries were written and executed to extract, manipulate, and analyze the data stored in the "Superstore" table (database).
 Azure Data Studio - used to host MSSQL
 Microsoft Excel - Data cleaning, Data Analysis
 Tableau - Create Dashboard Report
 
+
 ## Data Cleaning and Preparation
 For the most part, this data did not need much cleaning. Microsoft Excel  was used to separate "Order Date" by Day Month and Year.
 
+
 ## Exploratory Data Analysis
 Explored the sales data to answer key questions, such as:
+1) Who is our best customer?
+2) 
 
 
 
