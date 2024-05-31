@@ -1,6 +1,7 @@
 # Superstore-Sales-Analysis-and-Dashboard
 
-<img width="483" alt="Screenshot 2024-05-31 at 12 37 18 PM" src="https://github.com/Cagnoro1/Superstore-Sales-Analysis-and-Dashboard/assets/135088212/fd7fd984-c716-48ba-a8f3-9e4c852af322">
+![jasper-garratt-GCpIzvf5K38-unsplash](https://github.com/Cagnoro1/Superstore-Sales-Analysis-and-Dashboard/assets/135088212/3ae5e0bf-e47e-42b4-9c81-e05be1d83ef3)
+
 
 
 ## Table of contents
