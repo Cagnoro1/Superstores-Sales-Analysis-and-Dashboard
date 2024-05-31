@@ -243,5 +243,35 @@ ORDER BY Total_Sales ASC ;
 ```
 
 
+### Results and Finding
+
+The analysis results are summarized as follows:
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+
+### Recommendation
+
+Based on the analysis, we recommend the following actions:
+
+
+
+### Limitation 
+  None
+
+### References
+
+1. Dataset 
+  https://www.kaggle.com/datasets/vivek468/superstore-dataset-final 
+
+
+😄 Thank you!
+💻
+
 
 
