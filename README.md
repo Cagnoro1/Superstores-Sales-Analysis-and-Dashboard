@@ -277,6 +277,33 @@ The analysis results are summarized as follows:
 - Let's group sales across the years for each category.
 - Let's see in which month they operated the least.
 
+#### Revenue Optimization
+5) Let's see with which discount they generate the more revenue.
+6) What was the best month for sales in a specific year, and how much was earned in that month?
+
+#### Product Analysis
+7) What type of products do they sell the most (classic) from 2014 to 2017?
+9) What are the top-selling products overall?
+10) What are the top-selling products by Category and subcategory?
+11) Profitability Analysis - Which products generate the highest profit?
+18) Product Portfolio Optimization - What are the underperforming products?
+
+#### Customer Analysis:
+8) Who are our best customers?
+12) Customer Segmentation - What are the main customer segments?
+17) Customer Loyalty - List the loyal customers.
+
+#### Regional Analysis:
+13) Regional Performance - What are the total sales and profit by Region?
+
+#### Operational Analysis:
+14) Shipping Analysis- What are the most commonly used shipping models?
+15) Discount Impact - What effect do discounts have on profit?
+16) Time Trends - Are there any seasonal trends in sales or profit?
+
+
+
+
 
 
 
