@@ -6,8 +6,8 @@
 ## Table of contents
 - [Project Overview](#project-overview) 
 - [Data Sources](#data-sources)
-- [Tools](#tools)
   - [Metadata](#metadata)
+- [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
