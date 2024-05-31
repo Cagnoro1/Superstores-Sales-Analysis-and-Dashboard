@@ -54,10 +54,10 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * Microsoft Excel - Data cleaning, Data Analysis
 * Tableau - Create Dashboard Report
 
-
 ## Data Cleaning and Preparation
-For the most part, this data did not need much cleaning. Microsoft Excel  was used to separate "Order Date" by Day Month and Year.
-
+Microsoft Excel was used to clean this data. Here is what was done:
+- Added filters to each column
+- Separated "Order Date" by Day Month and Year.
 
 ## Exploratory Data Analysis
 Explored the sales data to answer key questions, such as:
