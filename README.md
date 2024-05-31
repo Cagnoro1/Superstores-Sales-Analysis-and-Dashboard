@@ -49,10 +49,10 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 ## Tools
-Microsoft SQL Server (SQL) -  used as the primary tool for data analysis. SQL queries were written and executed to extract, manipulate, and analyze the data stored in the "Superstore" table (database).
-Azure Data Studio - used to host MSSQL
-Microsoft Excel - Data cleaning, Data Analysis
-Tableau - Create Dashboard Report
+* Microsoft SQL Server (SQL) -  used as the primary tool for data analysis. SQL queries were written and executed to extract, manipulate, and analyze the data stored in the "Superstore" table (database).
+* Azure Data Studio - used to host MSSQL
+* Microsoft Excel - Data cleaning, Data Analysis
+* Tableau - Create Dashboard Report
 
 
 ## Data Cleaning and Preparation
