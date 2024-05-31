@@ -268,7 +268,17 @@ The analysis results are summarized as follows:
 #### Customer Behavior and Segmentation:
 - Identifying loyal customers by purchase frequency: William Brown, Paul Prost, John Lee, etc...
 - Analyzing customer segments by sales and profit.
-  
+
+
+#### Sales Analysis
+- Let's start by grouping sales by category: Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
+
+- Let's group sales across the years.
+- Let's group sales across the years for each category.
+- Let's see in which month they operated the least.
+
+
+
 
 
 
