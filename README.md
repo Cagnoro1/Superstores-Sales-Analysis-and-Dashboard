@@ -13,6 +13,7 @@
 - [Data Analysis](#data-analysis)
 - [Results and Finding](#results-and-finding)
   - [Sales Performance Analysis](#sales-performance_analysis)
+  - [Customer Behavior and Segmentation](#customer-behavior-and-segmentation)
 - [Limitation](#limitation)
 - [References](#references)
 
@@ -251,7 +252,7 @@ ORDER BY Total_Sales ASC ;
 ### Results and Finding
 
 The analysis results are summarized as follows:
-#### Sales Performance Analysis: 
+#### Sales Performance Analysis
 - Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
 - The Top 3 selling products:
     - Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish (Total Sales: 15610.9656)
