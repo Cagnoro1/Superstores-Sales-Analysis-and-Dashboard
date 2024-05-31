@@ -14,7 +14,7 @@
 
 
 ## Project Overview
-The project involves the analysis of sales data from the Superstore database. The data ranged from 2014 to 2017. This project aims to analyze the Superstore sales database in depth. This project is divided into two parts: 
+The project aims to analyze the key performance Indicators (KPI) of the sales data from the Superstore database to give them recommendations to increase their revenue and profit. The data ranges from 2014 to 2017. The project is divided into two parts: 
 1) The customer segmentation Analysis  using SQL.
 2) The visualization Dashboard on Tableau.
 
@@ -62,25 +62,24 @@ For the most part, this data did not need much cleaning. Microsoft Excel  was us
 ## Exploratory Data Analysis
 Explored the sales data to answer key questions, such as:
 
-1) What are the top-selling products overall?
-2) What are the top-selling products by Category and subcategory?
-3) Profitability Analysis - Which products generate the highest profit?
-4) Customer Segmentation - What are the main customer segments?
-5) Regional Performance - What are the total sales and profit by Region?
-6) Shipping Analysis- What are the most commonly used shipping models?
-7) Discount Impact - What effect do discounts have on profit?
-8) Time Trends - Are there any seasonal trends in sales or profit?
-9) Customer Loyalty - List the loyal customers.
-10) Product Portfolio Optimization - What are the underperforming products?
-
- In-depth analysis
- a) Let's start by grouping sales by category
- b) Let's group sales across the years
- c) Let's group sales across the years for each category 2015 has the least revenue, let's see in which month they operated in 2015
- d) Let's see with which discount they generate the more revenue
- e) What was the best month for sales in a specific year, and how much was earned in that month?
- f) What type of products do they sell the most (classic) from 2014 to 2017?
- g) Who are our best customers?
+1) Let's start by grouping sales by category.
+2) Let's group sales across the years.
+3) Let's group sales across the years for each category.
+4) Let's see in which month they operated the least.
+5) Let's see with which discount they generate the more revenue.
+6) What was the best month for sales in a specific year, and how much was earned in that month?
+7) What type of products do they sell the most (classic) from 2014 to 2017?
+8) Who are our best customers?
+9) What are the top-selling products overall?
+10) What are the top-selling products by Category and subcategory?
+11) Profitability Analysis - Which products generate the highest profit?
+12) Customer Segmentation - What are the main customer segments?
+13) Regional Performance - What are the total sales and profit by Region?
+14) Shipping Analysis- What are the most commonly used shipping models?
+15) Discount Impact - What effect do discounts have on profit?
+16) Time Trends - Are there any seasonal trends in sales or profit?
+17) Customer Loyalty - List the loyal customers.
+18) Product Portfolio Optimization - What are the underperforming products?
 
 
 
