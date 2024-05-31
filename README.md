@@ -256,12 +256,16 @@ The analysis results are summarized as follows:
     - DMI Eclipse Executive Suite Bookcases (Total Sales: 11046.609)
     - Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors (Total Sales: 7539.7122)
 - Regional Performance
-          - Region	 Total_Sales	   Total_Profit
-          - East   	  678781.24	      91522.78
-          - South	    391721.905	    46749.4303
-          - West	    725457.8245	    108418.4489
-          - Central	  501239.8908	    39706.3625
-
+##### Region------ Total_Sales----Total_Profit
+  - East-----678781.24-------91522.78
+  - South----391721.905------46749.4303
+  - West-----725457.8245-----108418.4489
+  - Central---501239.8908-----39706.3625
+    
+#### Customer Behavior and Segmentation:
+- Identifying loyal customers by purchase frequency: William Brown, Paul Prost, John Lee, etc...
+- Analyzing customer segments by sales and profit.
+  
 
 
 
