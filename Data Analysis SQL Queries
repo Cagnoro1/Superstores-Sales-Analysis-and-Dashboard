@@ -1,0 +1,11 @@
+-- Data Analysis SQL Queries for Superstore 
+
+-- Inspecting data
+SELECT * FROM dbo.Superstore
+
+-- Analysis 
+
+-- Let's start by grouping sales by category
+SELECT Category, SUM(Sales) AS Revenue
+FROM Superstore
+GROUP BY Category;
