@@ -249,13 +249,9 @@ ORDER BY Total_Sales ASC ;
 ### Results and Finding
 
 The analysis results are summarized as follows:
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+a. Sales Performance Analysis: Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
+b. 
+
 
 
 ### Recommendation
