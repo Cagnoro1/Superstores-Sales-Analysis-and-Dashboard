@@ -277,16 +277,16 @@ The analysis results are summarized as follows:
 #### Sales Analysis
 - Let's start by grouping sales by category: Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
 
-- Let's group sales across the years.
-- Let's group sales across the years for each category.
-- Let's see in which month they operated the least.
+- Let's group sales across the years for each category: 2017 seems to be the best year of sales and 2014 seems to be the worst.
 
 #### Revenue Optimization
-5) Let's see with which discount they generate the more revenue.
-6) What was the best month for sales in a specific year, and how much was earned in that month?
-
+- Let's see with which discount they generated the most revenue: 0 discount and 0.2 generated the most revenue. But discount percentage does not seem to affect the quantity of revenue generated.
+- What was the best month for sales in a specific year, and how much was earned in that month?
+November seems to be the month with the most sales on average across the years. 
+  
 #### Product Analysis
-7) What type of products do they sell the most (classic) from 2014 to 2017?
+- What type of products do they sell the most (classic) from 2014 to 2017?
+  
 9) What are the top-selling products overall?
 10) What are the top-selling products by Category and subcategory?
 11) Profitability Analysis - Which products generate the highest profit?
