@@ -255,81 +255,70 @@ ORDER BY Total_Sales ASC ;
 
 ### Results and Finding
 
-The analysis results are summarized as follows:
-#### Sales Performance Analysis
-- Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
-- The Top 3 selling products:
-    - Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish (Total Sales: 15610.9656)
-    - DMI Eclipse Executive Suite Bookcases (Total Sales: 11046.609)
-    - Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors (Total Sales: 7539.7122)
-- Regional Performance
-##### Region------ Total_Sales----Total_Profit
-  - East-----678781.24-------91522.78
-  - South----391721.905------46749.4303
-  - West-----725457.8245-----108418.4489
-  - Central---501239.8908-----39706.3625
-    
-#### Customer Behavior and Segmentation:
-- Identifying loyal customers by purchase frequency: William Brown, Paul Prost, John Lee, etc...
-- Analyzing customer segments by sales and profit.
+#### Sales
 
-
-#### Sales Analysis
-- Let's start by grouping sales by category: Technology is the category generating the most revenue. Then the  furniture category and closely followed by office supplies.
-
-- Let's group sales across the years for each category: 2017 seems to be the best year of sales and 2014 seems to be the worst.
-
+- Technology is the category generating the most revenue, followed closely by furniture and office supplies.
+- In terms of yearly sales, 2017 stands out as the best year, while 2014 appears to be the worst.
+  
 #### Revenue Optimization
-- Let's see with which discount they generated the most revenue:
-  0 discount and 0.2 generated the most revenue. But discount percentage does not seem to affect the quantity of revenue generated.
-- What was the best month for sales in a specific year, and how much was earned in that month?
-  November seems to be the month with the most sales on average across the years. 
+- Examining discounts:
+  - Sales with no discount and a 0.2 discount generated the most revenue.
+  - Interestingly, the discount percentage does not significantly affect the total revenue.
+- Best sale month:
+  - On average across the years, November is the month with the highest sales.
+
   
 #### Product Analysis
-- What type of products do they sell the most (classic) from 2014 to 2017?
-  The most sold products are Phones, Storage, Chairs, bookcases, Binders, Machines and Tables.
+- Top-selling products (classics) from 2014 to 2017?
+   - Phones, storage, chairs, bookcases, binders, machines, and tables are the classic bestsellers.
 
 - Profitability Analysis - Which products generate the highest profit?
-  The product generating the most profit is: "Canon imageCLASS 2200 Advanced Copier"
+  - The “Canon imageCLASS 2200 Advanced Copier” generates the highest profit.
   
-- Product Portfolio Optimization - What are the underperforming products?
+- Underperforming product:
+  - The “Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac” generates the least revenue.
 
- The product generating the least revenue is: "Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac"
 
 #### Customer Analysis:
-- Who are our loyal customers?
-   Top 8: William Brown, Paul Prost, John Lee, Matt Abelman, Jonathan Doherty, Chloris Kastensmidt, Edward Hooks, Seth Vernon
-
+- Loyal customers (Top 8):
+  - William Brown, Paul Prost, John Lee, Matt Abelman, Jonathan Doherty, Chloris Kastensmidt, Edward Hooks, Seth Vernon.
 
 #### Regional Analysis:
-- Regional Performance - What are the total sales and profit by Region?
-  ##### Region------ Total_Sales----Total_Profit
-  - East-----678781.24-------91522.78
-  - South----391721.905------46749.4303
-  - West-----725457.8245-----108418.4489
-  - Central---501239.8908-----39706.3625
+- Total sales and profit by region:
+    - East: Total sales = $678,781.24, Total profit = $91,522.78
+    - South: Total sales = $391,721.91, Total profit = $46,749.43
+    - West: Total sales = $725,457.82, Total profit = $108,418.45
+    - Central: Total sales = $501,239.89, Total profit = $39,706.36
     
 
-#### Operational Analysis:
-- Shipping Analysis- What are the most commonly used shipping models?
-  
-    
-16) Discount Impact - What effect do discounts have on profit?
-17) Time Trends - Are there any seasonal trends in sales or profit?
-
-
-
-
-
-
+#### Operational Insights:
+- Shipping methods:
+  - Standard shipping is the most commonly used method.
+- Discount impact on profit:
+    - No discount yields the best revenue, but a 0.2 discount also generates substantial income.
 
 
 
 ### Recommendation
 
 Based on the analysis, we recommend the following actions:
+#### 1. Holiday Season Optimization:
+- Consider focusing marketing efforts during the holiday season, which spans from March to November and December. This period consistently sees higher sales.
+  
+#### 2. Product Sales and Cost Optimization:
+- The superstore should strategically manage its product offerings. Phones, chairs, storage, tables, binders, machine accessories, and copiers contribute significantly to sales revenue.
+- To further optimize revenue, the superstore could negotiate deals with suppliers to reduce costs associated with these high-selling items.
 
+#### 3. Geographic Expansion:
+- California, Texas, and New York are the primary states for sales. Expanding store locations in these states could capitalize on existing demand.
+- Tailoring products to the specific demographics of these regions, especially in high-traffic areas, may yield better results.
 
+#### 4. Technology Category Investment:
+- The Technology category generates substantial revenue. Investing more in tech supplies could enhance overall profitability.
+  
+#### 5. Consumer vs. Home Office Revenue:
+- Consumers contribute more revenue than home offices. The superstore should continue to prioritize consumer-oriented products.
+  
 
 ### Limitation 
   None
