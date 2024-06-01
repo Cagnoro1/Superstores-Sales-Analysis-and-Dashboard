@@ -18,6 +18,7 @@
   - [Customer Analysis](#customer-analysis)
   - [Regional Analysis](#regional-analysis)
   - [Operational Analysis](#operational-analysis)
+- [Recommendation](#recommendation)
 - [Limitation](#limitation)
 - [References](#references)
 
