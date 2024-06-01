@@ -20,6 +20,7 @@
   - [Operational Insights](#operational-insights)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
+- [Tableau Dashboard](#tableau Dashboard)
 - [References](#references)
 
 
@@ -323,6 +324,10 @@ Based on the analysis, we recommend the following actions:
 
 ### Limitation 
   None
+
+### Tableau Dashboard
+![Superstore Sales Dashboard](https://github.com/Cagnoro1/Superstore-Sales-Analysis-and-Dashboard/assets/135088212/8c45f8b5-f977-432b-9aa3-4557e10bc7c3)
+
 
 ### References
 
