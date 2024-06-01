@@ -256,7 +256,7 @@ ORDER BY Total_Sales ASC ;
 
 ### Results and Finding
 
-#### Sales
+#### Sales Analysis
 
 - Technology is the category generating the most revenue, followed closely by furniture and office supplies.
 - In terms of yearly sales, 2017 stands out as the best year, while 2014 appears to be the worst.
