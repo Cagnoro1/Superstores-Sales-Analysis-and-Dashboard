@@ -30,7 +30,7 @@ The project aims to analyze the key performance Indicators (KPI) of the sales da
 2) The visualization Dashboard on Tableau.
 
 
-## Data Source
+## Data Sources
 This data came from Kaggle:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
