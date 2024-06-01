@@ -1,4 +1,4 @@
-# Superstore-Sales-Analysis-and-Dashboard
+# Superstores-Sales-Analysis-and-Dashboard
 
 ![Superstore cover](https://github.com/Cagnoro1/Superstore-Sales-Analysis-and-Dashboard/assets/135088212/46b7adff-7e4d-425a-97a4-4ee4fbce7a21)
 
