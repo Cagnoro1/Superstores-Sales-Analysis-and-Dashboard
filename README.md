@@ -17,7 +17,7 @@
   - [Product Analysis](#product-analysis)
   - [Customer Analysis](#customer-analysis)
   - [Regional Analysis](#regional-analysis)
-  - [Operational Analysis](#operational-analysis)
+  - [Operational Insights](#operational-insights)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
 - [References](#references)
