@@ -20,7 +20,7 @@
   - [Operational Insights](#operational-insights)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
-- [Tableau Dashboard](#tableau Dashboard)
+- [Tableau Dashboard](#tableau-dashboard)
 - [References](#references)
 
 
