@@ -34,7 +34,8 @@ The project aims to analyze the key performance Indicators (KPI) of the sales da
 ## Data Sources
 This data came from Kaggle:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-
+You can also find my Tableau data visualization here:
+https://public.tableau.com/app/profile/christelle.a6563/viz/SuperstoreSalesDashboard_17171055252140/SuperstoreSalesDashboard
 
 ### Metadata
 - **Row ID** => Unique ID for each row.
